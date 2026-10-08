@@ -1,0 +1,29 @@
+{
+  "most_recent_contribution_target": "example-thread-123",
+  "own_entry_ids": [],
+  "own_reply_ids": [
+    "example-reply-001"
+  ],
+  "pending_action": {
+    "author_id": "example-author",
+    "created_at": "1791380000.0",
+    "post_attempted": true,
+    "post_counted": true,
+    "recovery_attempts": 0,
+    "reply_text": "Synthetic example reply text.",
+    "submitted_reply_id": "example-reply-002",
+    "target_entry_id": "example-thread-456"
+  },
+  "seen_entry_ids": [
+    "example-entry-001",
+    "example-entry-002"
+  ],
+  "seen_reply_ids": [
+    "example-seen-reply-001",
+    "example-seen-reply-002"
+  ],
+  "successful_write_timestamps": [
+    1791380000.0,
+    1791387200.0
+  ]
+}

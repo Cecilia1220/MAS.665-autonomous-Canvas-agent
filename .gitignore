@@ -1,0 +1,12 @@
+.env
+.canvas_agent_env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+data/memory.json
+logs/*.log
+
+!.gitkeep
+.DS_Store
