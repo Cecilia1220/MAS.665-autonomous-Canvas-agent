@@ -150,7 +150,7 @@ class OpenAIDecisionEngine:
 
 
 def build_llm_prompt(relevant_canvas_text: list[str]) -> str:
-    """Prepare limited, plain-text input for a future LLM provider integration."""
+    """Prepare limited, plain-text input for the configured LLM decision call."""
     if not relevant_canvas_text:
         return "There is no new Canvas content. Return SKIP."
     return (

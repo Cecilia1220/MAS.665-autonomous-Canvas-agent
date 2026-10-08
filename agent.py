@@ -1,4 +1,4 @@
-"""Run one read-only Canvas discussion summary cycle."""
+"""Run one autonomous Canvas discussion agent cycle."""
 
 from __future__ import annotations
 
